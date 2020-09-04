@@ -53,9 +53,9 @@ This program is used to detect the breast cancer, based off of data using machin
 - DecisionTreeClassifier(Accuracy:- 1.0)
 - RandomForestClassifier (Accuracy:- 0.9953051643192489)
 
-**Conclusion**
-
 By using the RandomForestClassifier for test data, Obtain Accuracy is 0.965034965034965.
+
+
     
 
 
